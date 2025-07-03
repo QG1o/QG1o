@@ -8,7 +8,7 @@
 - 🔐 Mein Schwerpunkt liegt auf IT-Sicherheit und Systemadministration.  
 - 🏢 Als IT-Administrator in einem Unternehmen habe ich komplette IT-Infrastrukturen geplant, aufgebaut und betreut.  
 - 📚 Ich bilde mich kontinuierlich im IT-Bereich weiter – sowohl theoretisch als auch praktisch.
-
+- 💬 Ask me about anything [here](https://github.com/QG1o/ask-me/issues/new/choose)
 ---
 
 ### 🧰 Tech Stack & Skills
@@ -52,9 +52,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/georgiost/) [![Hack The Box](https://img.shields.io/badge/Hack_The_Box-00FF9F?style=flat&logo=hackthebox&logoColor=black)](https://app.hackthebox.com/profile/1004159) [![TryHackMe](https://img.shields.io/badge/TryHackMe-FF6C37?style=flat&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/QG1o) [![Medium](https://img.shields.io/badge/Medium-000000?style=flat&logo=medium&logoColor=white)](https://medium.com/@tertlidis)  
 
 ---
-
-💬 Ask me about anything [here](https://github.com/QG1o/ask-me/issues/new/choose)
-
 
 ### 📊 GitHub Stats
 
