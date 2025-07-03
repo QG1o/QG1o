@@ -53,6 +53,9 @@
 
 ---
 
+💬 Ask me about anything [here](https://github.com/QG1o/ask-me/issues/new/choose)
+
+
 ### 📊 GitHub Stats
 
 <p align="center">
