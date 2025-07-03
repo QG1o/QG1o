@@ -7,8 +7,7 @@
 - 🧑‍💻 Seit meiner Kindheit beschäftige ich mich intensiv mit IT – mittlerweile über 20 Jahre.  
 - 🔐 Mein Schwerpunkt liegt auf IT-Sicherheit und Systemadministration.  
 - 🏢 Als IT-Administrator in einem Unternehmen habe ich komplette IT-Infrastrukturen geplant, aufgebaut und betreut.  
-- 📚 Ich bilde mich kontinuierlich in IT-Sicherheit und Administration weiter – theoretisch wie praktisch.
-
+- 📚 Ich bilde mich kontinuierlich im IT-Bereich weiter – sowohl theoretisch als auch praktisch.
 
 ---
 
@@ -29,9 +28,13 @@
 
 ### 🎯 Learning in progress
 
+- ![Fachhochschulreife](https://img.shields.io/badge/Fachhochschulreife-%F0%9F%8E%93-blue)
 - ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 
+### 🎯 Next goals
 
+- ![IT-Sicherheit Studium](https://img.shields.io/badge/IT--Sicherheit--Studium-%F0%9F%94%92-blue)
+- ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 
 ### 🛠 Projekte
 
