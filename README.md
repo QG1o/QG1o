@@ -37,12 +37,16 @@
 
 - ![IT-Sicherheit Studium](https://img.shields.io/badge/IT--Sicherheit--Studium-%F0%9F%94%92-blue)
 
-  
+
+
+
 ### 🛠 Projekte
 
 | Projekt                 | Beschreibung                                                  |
 |------------------------|--------------------------------------------------------------|
-| 🌐 [`Portfolio-1`](https://github.com/QG1o/Portfolio-1) | Persönliche Portfolio-Webseite zur Präsentation von Fähigkeiten und Projekten. |
+| 🌐 [`Portfolio-1`](https://github.com/QG1o/Portfolio-1)          | Persönliche Portfolio-Webseite zur Präsentation von Fähigkeiten und Projekten. |
+| 🛡️ [`HackTheBox-WriteUps`](https://github.com/QG1o/HackTheBox-WriteUps) | Sammlung von Lösungen und Write-ups zu Hack The Box Maschinen und Challenges.  |
+
 
 
 ---
