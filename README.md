@@ -15,7 +15,11 @@
 
 ![Linux](https://img.shields.io/badge/Linux-(Debian%20&%20Fedora)-00cc44?style=flat&logo=linux&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-Admin-0099ff?style=flat&logo=windows&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-ff4500?style=flat&logo=html5&logoColor=white)  
+![CSS3](https://img.shields.io/badge/CSS3-1e90ff?style=flat&logo=css3&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-306998?style=flat&logo=python&logoColor=yellow)
+
 ![Bash](https://img.shields.io/badge/Bash-006400?style=flat&logo=gnu-bash&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/Powershell-1e90ff?style=flat&logo=powershell&logoColor=white)
 ![Active Directory](https://img.shields.io/badge/Active_Directory-007acc?style=flat&logo=microsoft-active-directory&logoColor=white)
@@ -29,12 +33,12 @@
 ### 🎯 Learning in progress
 
 - ![Fachhochschulreife](https://img.shields.io/badge/Fachhochschulreife-%F0%9F%8E%93-blue)
-- ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+- ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 
 ### 🎯 Next goals
 
 - ![IT-Sicherheit Studium](https://img.shields.io/badge/IT--Sicherheit--Studium-%F0%9F%94%92-blue)
-- ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+- 
 
 ### 🛠 Projekte
 
