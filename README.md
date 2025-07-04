@@ -37,16 +37,14 @@
 ### 🎯 Next goals
 
 - ![IT-Sicherheit Studium](https://img.shields.io/badge/IT--Sicherheit--Studium-%F0%9F%94%92-blue)
-- 
 
+  
 ### 🛠 Projekte
 
-| Projekt            | Beschreibung                                              |
-|--------------------|-----------------------------------------------------------|
-| 🔐 `security-scripts` |  |
-| 🧪 `ctf-tools`        |   |
-| 🩺 `log-checks`       |   |
-| ⚙️ `dotfiles`          |   |
+| Projekt                 | Beschreibung                                                  |
+|------------------------|--------------------------------------------------------------|
+| 🌐 [`Portfolio-1`](https://github.com/QG1o/Portfolio-1) | Persönliche Portfolio-Webseite zur Präsentation von Fähigkeiten und Projekten. |
+
 
 ---
 
