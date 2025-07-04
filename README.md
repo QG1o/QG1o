@@ -15,9 +15,7 @@
 
 ![Linux](https://img.shields.io/badge/Linux-00cc44?style=flat&logo=linux&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0099ff?style=flat&logo=windows&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-ff4500?style=flat&logo=html5&logoColor=white)  
-![CSS3](https://img.shields.io/badge/CSS3-1e90ff?style=flat&logo=css3&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-ff4500?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1e90ff?style=flat&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-306998?style=flat&logo=python&logoColor=yellow)
 ![Bash](https://img.shields.io/badge/Bash-006400?style=flat&logo=gnu-bash&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/Powershell-1e90ff?style=flat&logo=powershell&logoColor=white)
