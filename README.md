@@ -13,8 +13,8 @@
 
 ### 🧰 Tech Stack & Skills
 
-![Linux](https://img.shields.io/badge/Linux-(Debian%20&%20Fedora)-00cc44?style=flat&logo=linux&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-Admin-0099ff?style=flat&logo=windows&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-00cc44?style=flat&logo=linux&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0099ff?style=flat&logo=windows&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-ff4500?style=flat&logo=html5&logoColor=white)  
 ![CSS3](https://img.shields.io/badge/CSS3-1e90ff?style=flat&logo=css3&logoColor=white)  
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
@@ -25,6 +25,7 @@
 ![SQL](https://img.shields.io/badge/SQL-0059b3?style=flat&logo=sqlite&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-ff4500?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1e90ff?style=flat&logo=css3&logoColor=white)
+
 
 ---
 
