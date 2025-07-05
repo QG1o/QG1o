@@ -62,8 +62,8 @@
 
 <div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=QG1o&show_icons=true&hide_title=true&theme=github_dark&custom_title=GitHub%20Stats&bg_color=000000&title_color=bf6fff&text_color=c9c9ff&icon_color=bf6fff&border_color=bf6fff" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=QG1o&layout=compact&bg_color=000000&title_color=bf6fff&text_color=c9c9ff&icon_color=bf6fff&border_color=bf6fff" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=QG1o&show_icons=true&theme=github_dark&hide_title=true" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=QG1o&layout=compact&theme=github_dark" height="180" />
 
 </div>
 
