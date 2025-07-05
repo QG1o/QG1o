@@ -16,6 +16,7 @@
 
 ### 🧰 Tech Stack & Skills
 
+![IT Security](https://img.shields.io/badge/IT_Security-DC143C?style=flat&logo=fortinet&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E44D26?style=flat&logo=html5&logoColor=white)
@@ -26,7 +27,6 @@
 ![PowerShell](https://img.shields.io/badge/Powershell-012456?style=flat&logo=powershell&logoColor=white)
 ![Active Directory](https://img.shields.io/badge/Active_Directory-003366?style=flat&logo=microsoft-active-directory&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=flat&logo=sqlite&logoColor=white)
-![IT Security](https://img.shields.io/badge/IT_Security-DC143C?style=flat&logo=fortinet&logoColor=white)
 
 ---
 
