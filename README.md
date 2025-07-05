@@ -1,8 +1,11 @@
 <i>IT-Administrator • Security Enthusiast</i>
 
+
+Hallo! 👋
+
 ---
 
-### 👨‍💻 Über mich 🇩🇪 🇬🇷 🇬🇧
+### 👨‍💻 Über mich 🇩🇪 🇬🇷 🇬🇧 
 
 - 🧑‍💻 Seit meiner Kindheit beschäftige ich mich intensiv mit IT – mittlerweile über 20 Jahre.  
 - 🔐 Mein Schwerpunkt liegt auf IT-Sicherheit und Systemadministration.  
