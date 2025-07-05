@@ -48,9 +48,8 @@
 
 | Projekt                 | Beschreibung                                                  |
 |------------------------|--------------------------------------------------------------|
-| 🌐 [`Portfolio-1`](https://github.com/QG1o/Portfolio-1)          | Persönliche Portfolio-Webseite zur Präsentation von Fähigkeiten und Projekten. |
-| 🛡️ [`HackTheBox-WriteUps`](https://github.com/QG1o/HackTheBox-WriteUps) | Sammlung von Lösungen und Write-ups zu Hack The Box Maschinen und Challenges.  |
-| 🖧 [`Simple-Bash-Server`](https://github.com/QG1o/IT-Security-Toolbox/tree/main/Simple-Bash-Server) | Minimalistische TCP- und UDP-Server in Bash zum Empfangen und Anzeigen von Nachrichten. |
+| 🌐 [`Portfolio-1`](https://github.com/QG1o/Projects/tree/main/webdev/portfolio-1)          | Persönliche Portfolio-Webseite zur Präsentation von Fähigkeiten und Projekten. |
+| 🖧 [`TCP or UDP server just to receive messages`](https://github.com/QG1o/Projects/tree/main/it-sec/TCP%20or%20UDP%20server%20just%20to%20receive%20messages) | Minimalistische TCP- und UDP-Server in Bash zum Empfangen und Anzeigen von Nachrichten. |
 
 
 
