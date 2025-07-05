@@ -18,15 +18,15 @@
 
 ![IT Security](https://img.shields.io/badge/IT_Security-DC143C?style=plastic&logo=fortinet&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=linux&logoColor=black)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E44D26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-264DE4?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F0DB4F?style=flat&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=yellow)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
-![PowerShell](https://img.shields.io/badge/Powershell-012456?style=flat&logo=powershell&logoColor=white)
-![Active Directory](https://img.shields.io/badge/Active_Directory-003366?style=flat&logo=microsoft-active-directory&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-003B57?style=flat&logo=sqlite&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=plastic&logo=windows&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E44D26?style=plastic&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-264DE4?style=plastic&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F0DB4F?style=plastic&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=plastic&logo=python&logoColor=yellow)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=plastic&logo=gnu-bash&logoColor=white)
+![PowerShell](https://img.shields.io/badge/Powershell-012456?style=plastic&logo=powershell&logoColor=white)
+![Active Directory](https://img.shields.io/badge/Active_Directory-003366?style=plastic&logo=microsoft-active-directory&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=plastic&logo=sqlite&logoColor=white)
 
 
 ---
@@ -35,7 +35,7 @@
 ### 🎯 Learning in progress
 
 - ![Fachhochschulreife](https://img.shields.io/badge/Fachhochschulreife-%F0%9F%8E%93-blue)
-- ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+- ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=plastic&logo=c%2B%2B&logoColor=white)
 
 ### 🎯 Next goals
 
@@ -58,10 +58,10 @@
 
 ### 📬 Kontakt
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-004182?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/georgiost/)
-[![Hack The Box](https://img.shields.io/badge/Hack_The_Box-1A472A?style=flat&logo=hackthebox&logoColor=white)](https://app.hackthebox.com/profile/1004159)
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-9C3B20?style=flat&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/QG1o)
-[![Medium](https://img.shields.io/badge/Medium-F2F1EC?style=flat&logo=medium&logoColor=000000)](https://medium.com/@tertlidis)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-004182?style=plastic&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/georgiost/)
+[![Hack The Box](https://img.shields.io/badge/Hack_The_Box-1A472A?style=plastic&logo=hackthebox&logoColor=white)](https://app.hackthebox.com/profile/1004159)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-9C3B20?style=plastic&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/QG1o)
+[![Medium](https://img.shields.io/badge/Medium-F2F1EC?style=plastic&logo=medium&logoColor=000000)](https://medium.com/@tertlidis)
  
 
 ---
@@ -78,4 +78,4 @@
 
 ---
 
-![Profile Views](https://komarev.com/ghpvc/?username=QG1o&style=flat-square&color=blue)
+![Profile Views](https://komarev.com/ghpvc/?username=QG1o&style=plastic&color=blue)
