@@ -13,16 +13,17 @@
 
 ### 🧰 Tech Stack & Skills
 
-![Linux](https://img.shields.io/badge/Linux-00cc44?style=flat&logo=linux&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-0099ff?style=flat&logo=windows&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-ff4500?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1e90ff?style=flat&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-306998?style=flat&logo=python&logoColor=yellow)
-![Bash](https://img.shields.io/badge/Bash-006400?style=flat&logo=gnu-bash&logoColor=white)
-![PowerShell](https://img.shields.io/badge/Powershell-1e90ff?style=flat&logo=powershell&logoColor=white)
-![Active Directory](https://img.shields.io/badge/Active_Directory-007acc?style=flat&logo=microsoft-active-directory&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-0059b3?style=flat&logo=sqlite&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-ff4500?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1e90ff?style=flat&logo=css3&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E44D26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-264DE4?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F0DB4F?style=flat&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=yellow)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
+![PowerShell](https://img.shields.io/badge/Powershell-012456?style=flat&logo=powershell&logoColor=white)
+![Active Directory](https://img.shields.io/badge/Active_Directory-003366?style=flat&logo=microsoft-active-directory&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=flat&logo=sqlite&logoColor=white)
+
 
 
 ---
