@@ -26,7 +26,6 @@
 ![PowerShell](https://img.shields.io/badge/Powershell-012456?style=flat&logo=powershell&logoColor=white)
 ![Active Directory](https://img.shields.io/badge/Active_Directory-003366?style=flat&logo=microsoft-active-directory&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=flat&logo=sqlite&logoColor=white)
-![Container](https://img.shields.io/badge/Container-4A90E2?style=flat&logo=docker&logoColor=white)  ![Virtualization](https://img.shields.io/badge/Virtualization-007ACC?style=flat&logo=virtualbox&logoColor=white)  ![Network Analysis](https://img.shields.io/badge/Network_Analysis-005A9C?style=flat&logo=wireshark&logoColor=blue) ![Log Analysis](https://img.shields.io/badge/Log_Analysis-333333?style=flat&logo=grafana&logoColor=orange)
 
 
 ---
