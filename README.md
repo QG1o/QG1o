@@ -1,7 +1,7 @@
 ## <i>IT-Administrator • Security Enthusiast</i>
 
 
-# Hallo! <img src="https://github.com/QG1o/QG1o/raw/main/gifs/hand.gif" width="70" alt="Winkende Hand">
+# Hallo! <img src="https://github.com/QG1o/QG1o/raw/main/gifs/hand.gif" width="40" alt="Winkende Hand">
 
 ---
 
