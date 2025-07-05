@@ -62,9 +62,8 @@
 
 <div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=QG1o&show_icons=true&theme=github_dark&hide_title=true" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=QG1o&layout=compact&theme=github_dark" height="180" />
-
+  <img src="https://github-readme-stats.vercel.app/api?username=QG1o&show_icons=true&theme=tokyonight&hide_title=true" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=QG1o&layout=compact&theme=tokyonight" height="180" />
 
 </div>
 
