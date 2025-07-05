@@ -65,6 +65,16 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=QG1o&layout=compact&theme=tokyonight" height="160" />
 </p>
 
+## 📊 GitHub Stats
+
+<!-- GitHub Stats Card -->
+![QG1o's GitHub Stats](https://github-readme-stats.vercel.app/api?username=QG1o&show_icons=true&theme=github_dark&hide_title=true)
+
+<!-- Most Used Languages -->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=QG1o&layout=compact&theme=github_dark)
+
+<!-- GitHub Streak -->
+[![GitHub Streak](https://streak-stats.demolab.com/?user=QG1o&theme=dark)](https://git.io/streak-stats)
 
 ---
 
