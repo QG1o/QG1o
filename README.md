@@ -54,7 +54,11 @@
 
 ### 📬 Kontakt
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/georgiost/) [![Hack The Box](https://img.shields.io/badge/Hack_The_Box-00FF9F?style=flat&logo=hackthebox&logoColor=black)](https://app.hackthebox.com/profile/1004159) [![TryHackMe](https://img.shields.io/badge/TryHackMe-FF6C37?style=flat&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/QG1o) [![Medium](https://img.shields.io/badge/Medium-000000?style=flat&logo=medium&logoColor=white)](https://medium.com/@tertlidis)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-004182?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/georgiost/)
+[![Hack The Box](https://img.shields.io/badge/Hack_The_Box-1A472A?style=flat&logo=hackthebox&logoColor=white)](https://app.hackthebox.com/profile/1004159)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-9C3B20?style=flat&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/QG1o)
+[![Medium](https://img.shields.io/badge/Medium-F2F1EC?style=flat&logo=medium&logoColor=000000)](https://medium.com/@tertlidis)
+ 
 
 ---
 
