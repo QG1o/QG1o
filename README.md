@@ -1,7 +1,7 @@
 <i>IT-Administrator • Security Enthusiast</i>
 
 
-Hallo! 👋
+# Hallo! <img src="https://github.com/QG1o/QG1o/raw/main/gifs/hand.gif" width="80" alt="Winkende Hand">
 
 ---
 
@@ -27,6 +27,7 @@ Hallo! 👋
 ![Active Directory](https://img.shields.io/badge/Active_Directory-003366?style=flat&logo=microsoft-active-directory&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=flat&logo=sqlite&logoColor=white)
 
+![Log Analysis](https://img.shields.io/badge/Log_Analysis-333333?style=flat&logo=grafana&logoColor=orange)
 
 
 ---
