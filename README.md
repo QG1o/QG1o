@@ -8,7 +8,7 @@
 ### 👨‍💻 Über mich 🇩🇪 🇬🇷 🇬🇧 
 
 - 🧑‍💻 Seit meiner Kindheit beschäftige ich mich intensiv mit IT – mittlerweile über 20 Jahre.  
-- 🔐 Mein Schwerpunkt liegt auf IT-Sicherheit und Systemadministration.  
+- 🔐 Mein Schwerpunkt liegt auf IT-Sicherheit und IT-Administration.  
 - 🏢 Als IT-Administrator in einem Unternehmen habe ich komplette IT-Infrastrukturen geplant, aufgebaut und betreut.  
 - 📚 Ich bilde mich kontinuierlich im IT-Bereich weiter – sowohl theoretisch als auch praktisch.
 - 💬 Ask me about anything [here](https://github.com/QG1o/ask-me/issues/new/choose)
