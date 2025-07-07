@@ -24,7 +24,7 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F0DB4F?style=plastic&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=plastic&logo=python&logoColor=yellow)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=plastic&logo=gnu-bash&logoColor=white)
-![PowerShell](https://img.shields.io/badge/Powershell-012456?style=plastic&logo=powershell&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
 ![Active Directory](https://img.shields.io/badge/Active_Directory-003366?style=plastic&logo=microsoft-active-directory&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=plastic&logo=sqlite&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=plastic&logo=php&logoColor=white)
