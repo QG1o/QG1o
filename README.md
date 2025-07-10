@@ -34,7 +34,6 @@
 
 ### 🎯 Learning in progress
 
-- ![Fachhochschulreife](https://img.shields.io/badge/Fachhochschulreife-%F0%9F%8E%93-blue)
 - ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=plastic&logo=c%2B%2B&logoColor=white)
 
 ### 🎯 Next goals
