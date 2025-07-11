@@ -48,7 +48,7 @@
 | Projekt                 | Beschreibung                                                  |
 |------------------------|--------------------------------------------------------------|
 | 🌐 [`Portfolio-1`](https://github.com/QG1o/Projects/tree/main/webdev/portfolio-1)          | Persönliche Portfolio-Webseite zur Präsentation von Fähigkeiten und Projekten. |
-| 🌐 [`Portfolio-2`](https://github.com/QG1o/portfolio2)          | Persönliche Portfolio-Webseite zur Präsentation von Fähigkeiten und Projekten. |
+| 🌐 [`Portfolio-2`](https://qg1o.github.io/portfolio2/)          | Persönliche Portfolio-Webseite zur Präsentation von Fähigkeiten und Projekten. |
 | 🖧 [`TCP or UDP server just to receive messages`](https://github.com/QG1o/Projects/tree/main/it-sec/TCP%20or%20UDP%20server%20just%20to%20receive%20messages) | Minimalistische TCP- und UDP-Server in Bash zum Empfangen und Anzeigen von Nachrichten. |
 
 
