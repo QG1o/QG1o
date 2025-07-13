@@ -38,7 +38,7 @@
 
 ### 🎯 Next goals
 
-- ![Wirtschaftsinformatik Studium](https://img.shields.io/badge/IT--Sicherheit--Studium-%F0%9F%94%92-blue)
+- ![Wirtschaftsinformatik Studium](https://img.shields.io/badge/Wirtschaftsinformatik-Studium-blue?style=for-the-badge&logo=graduation-cap&logoColor=white)
 
 
 
