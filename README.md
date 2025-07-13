@@ -38,7 +38,7 @@
 
 ### 🎯 Next goals
 
-- ![IT-Sicherheit Studium](https://img.shields.io/badge/IT--Sicherheit--Studium-%F0%9F%94%92-blue)
+- ![Wirtschaftsinformatik Studium](https://img.shields.io/badge/IT--Sicherheit--Studium-%F0%9F%94%92-blue)
 
 
 
