@@ -34,11 +34,11 @@
 
 ### 🎯 Learning in progress
 
-- ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=plastic&logo=c%2B%2B&logoColor=white)
+- ![Studium](https://img.shields.io/badge/Wirtschaftsinformatik-Studium-0A66C2?style=plastic&logo=bookstack&logoColor=white)
 
 ### 🎯 Next goals
 
-- ![Studium](https://img.shields.io/badge/Wirtschaftsinformatik-Studium-0A66C2?style=plastic&logo=bookstack&logoColor=white)
+- 
 
 
 ### 🛠 Projekte
