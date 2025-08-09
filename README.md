@@ -34,10 +34,11 @@
 ### 🎯 Learning in progress
 
 - ![Studium](https://img.shields.io/badge/Wirtschaftsinformatik-Studium-0A66C2?style=plastic&logo=bookstack&logoColor=white)
+- ![Portfolio](https://img.shields.io/badge/Portfolio-In_Progress-FF6600?style=plastic&logo=visual-studio-code&logoColor=white)
 
 ### 🎯 Next goals
 
-- 
+- 🤔
 
 
 ### 🛠 Projekte
