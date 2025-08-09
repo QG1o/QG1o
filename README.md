@@ -48,7 +48,7 @@
 | 🌐 [`Portfolio-1`](https://qg1o.github.io/portfolio1/)          | Persönliche Portfolio-Webseite zur Präsentation von Fähigkeiten und Projekten. |
 | 🌐 [`Portfolio-2`](https://qg1o.github.io/portfolio2/)          | Persönliche Portfolio-Webseite zur Präsentation von Fähigkeiten und Projekten. |
 | 🌐 [`Portfolio-3`](https://github.com/QG1o/portfolio3)          | Persönliche Portfolio-Webseite zur Präsentation von Fähigkeiten und Projekten. |
-| 🖧  [`ITSEC`](https://github.com/QG1o/itsec)                     |                                                                                |
+| 🌐  [`ITSEC`](https://github.com/QG1o/itsec)                    | Skripte                                                                        |
 
 
 
