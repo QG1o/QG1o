@@ -27,8 +27,7 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=plastic&logo=python&logoColor=yellow)
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=plastic&logo=sqlite&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=plastic&logo=php&logoColor=white)
-[![3D Modeling](https://img.shields.io/badge/3D%20Modeling-Blender-100000?logo=blender&logoColor=white)](https://sketchfab.com/deinusername)
-
+![3D Modeler](https://img.shields.io/badge/3D%20Modeling-Artist-2b7bb9?logo=three.js&logoColor=white)
 ---
 
 
