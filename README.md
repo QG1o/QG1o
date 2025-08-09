@@ -35,6 +35,7 @@
 
 - ![Studium](https://img.shields.io/badge/Wirtschaftsinformatik-Studium-0A66C2?style=plastic&logo=bookstack&logoColor=white)
 - ![Portfolio 3](https://img.shields.io/badge/Portfolio%203-In_Progress-FF6600?style=plastic&logo=visual-studio-code&logoColor=white)
+- ![3D Modeler](https://img.shields.io/badge/3D%20Modeling-Artist-2b7bb9?logo=three.js&logoColor=white)
 
 ### 🎯 Next goals
 
