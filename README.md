@@ -58,6 +58,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-004182?style=plastic&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/georgiost/)
 [![Hack The Box](https://img.shields.io/badge/Hack_The_Box-1A472A?style=plastic&logo=hackthebox&logoColor=white)](https://app.hackthebox.com/profile/1004159)
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-9C3B20?style=plastic&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/QG1o)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=plastic&logo=leetcode&logoColor=white)](https://leetcode.com/u/QG1o/)
 [![Medium](https://img.shields.io/badge/Medium-F2F1EC?style=plastic&logo=medium&logoColor=000000)](https://medium.com/@tertlidis) 
 [![Email](https://img.shields.io/badge/Email-0078D4?style=plastic&logo=minutemailer&logoColor=white)](mailto:g@mioo.slmail.me)
 
