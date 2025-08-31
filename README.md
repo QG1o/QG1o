@@ -38,7 +38,7 @@
 
 ### 🎯 Next goals
 
-- 🤔
+- Persönliche Portfolio-Website schreiben
 
 
 ### 🛠 Projekte
