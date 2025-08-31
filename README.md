@@ -4,7 +4,6 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=+Roboto+Mono+&weight=100&size=35&pause=1000&color=672FAE&random=true&width=1000&lines=IT-Administrator+%E2%80%A2+Security+Enthusiast)](https://git.io/typing-svg)
 
-
 ---
 
 ### 👨‍💻 Über mich 🇩🇪 🇬🇷 🇬🇧 
