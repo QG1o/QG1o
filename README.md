@@ -1,5 +1,4 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6a0dad,8e44ad,a29bfe&height=200&section=header&text=Hi%2C%20I'm%20Georgios%20Tertlidis!&fontSize=40&fontColor=ffffff)
-
+![Header](https://capsule-render.vercel.app/api?type=waving&color=672FAE&height=200&section=header&text=Hi%2C%20I'm%20Georgios%20Tertlidis!&fontSize=40&fontColor=87CEFA)
 
 # Hallo! <img src="https://github.com/QG1o/QG1o/raw/main/gifs/hand.gif" width="40" alt="Winkende Hand">
 
@@ -79,4 +78,4 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=QG1o&style=plastic&color=blue)
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6a0dad,8e44ad,a29bfe&height=120&section=footer)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=672FAE&height=120&section=footer&fontSize=30&fontColor=87CEFA)
