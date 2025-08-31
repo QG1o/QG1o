@@ -1,7 +1,9 @@
-## <i>IT-Administrator • Security Enthusiast</i>
-
-
 # Hallo! <img src="https://github.com/QG1o/QG1o/raw/main/gifs/hand.gif" width="40" alt="Winkende Hand">
+
+---
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=+Roboto+Mono+&weight=100&size=25&pause=1000&color=672FAE&random=true&width=1000&lines=IT-Administrator+%E2%80%A2+Security+Enthusiast)](https://git.io/typing-svg)
+
 
 ---
 
@@ -33,8 +35,7 @@
 ### 🎯 Learning in progress
 
 - ![Studium](https://img.shields.io/badge/Wirtschaftsinformatik-Studium-0A66C2?style=plastic&logo=bookstack&logoColor=white)
-- ![Portfolio 3](https://img.shields.io/badge/Portfolio%203-In_Progress-FF6600?style=plastic&logo=visual-studio-code&logoColor=white)
-- ![3D Modeler](https://img.shields.io/badge/3D%20Modeling-Artist-2b7bb9?logo=three.js&logoColor=white)
+
 
 ### 🎯 Next goals
 
@@ -48,8 +49,6 @@
 | 🌐 [`Portfolio-1`](https://qg1o.github.io/portfolio1/)          | Persönliche Portfolio-Webseite zur Präsentation von Fähigkeiten und Projekten. |
 | 🌐 [`Portfolio-2`](https://qg1o.github.io/portfolio2/)          | Persönliche Portfolio-Webseite zur Präsentation von Fähigkeiten und Projekten. |
 | 🌐 [`Portfolio-3`](https://github.com/QG1o/portfolio3)          | Persönliche Portfolio-Webseite zur Präsentation von Fähigkeiten und Projekten. |
-| 🌐  [`ITSEC`](https://github.com/QG1o/itsec)                    | Skripte                                                                        |
-
 
 
 
@@ -60,8 +59,8 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-004182?style=plastic&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/georgiost/)
 [![Hack The Box](https://img.shields.io/badge/Hack_The_Box-1A472A?style=plastic&logo=hackthebox&logoColor=white)](https://app.hackthebox.com/profile/1004159)
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-9C3B20?style=plastic&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/QG1o)
-[![Medium](https://img.shields.io/badge/Medium-F2F1EC?style=plastic&logo=medium&logoColor=000000)](https://medium.com/@tertlidis)
- 
+[![Medium](https://img.shields.io/badge/Medium-F2F1EC?style=plastic&logo=medium&logoColor=000000)](https://medium.com/@tertlidis) 
+[![Email](https://img.shields.io/badge/Email-0078D4?style=plastic&logo=minutemailer&logoColor=white)](mailto:g@mioo.slmail.me)
 
 ---
 ### 📊 GitHub Stats
