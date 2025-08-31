@@ -1,5 +1,7 @@
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=672FAE&height=200&section=header&text=Hi%2C%20I'm%20Georgios%20Tertlidis!&fontSize=40&fontColor=87CEFA)
 
+---
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Robo+Mono&size=30&duration=1&pause=1000&color=87CEFA&vCenter=true&repeat=false&random=true&width=110&lines=Hallo!)](https://git.io/typing-svg)<img src="https://github.com/QG1o/QG1o/raw/main/gifs/hand.gif" width="40" alt="Winkende Hand">
 
 ---
