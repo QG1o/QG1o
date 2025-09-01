@@ -2,7 +2,6 @@
 ![Hi, I'm Georgios Tertlidis](https://raw.githubusercontent.com/QG1o/QG1o/main/header.svg)
 ---
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Robo+Mono&size=35&duration=1&pause=1000&color=87CEFA&vCenter=true&repeat=false&random=true&width=120&lines=Hallo!)](https://git.io/typing-svg)<img src="https://github.com/QG1o/QG1o/raw/main/gifs/hand.gif" width="40" alt="Winkende Hand">
 
 ---
 
