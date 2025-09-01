@@ -1,5 +1,5 @@
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=672FAE&height=200&section=header)
-![Hi, I'm Georgios Tertlidis](https://raw.githubusercontent.com/QG1o/QG1o/main/header.svg)
+![Hi, I'm Georgios Tertlidis!](https://raw.githubusercontent.com/QG1o/QG1o/main/header.svg)
 ---
 
 
