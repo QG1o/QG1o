@@ -1,0 +1,45 @@
+<svg width="800" height="200" xmlns="http://www.w3.org/2000/svg">
+  <!-- Styles & Fonts -->
+  <style type="text/css">
+    @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@700&display=swap');
+
+    .rainbow-text {
+      font-family: 'Poppins', sans-serif;
+      font-weight: 700;
+      font-size: 40px;
+      fill: url(#rainbowGradient);
+      animation: blink 3s infinite; /* langsameres Blinken */
+    }
+
+    @keyframes blink {
+      0%, 40%, 100% { opacity: 1; }
+      20%, 60% { opacity: 0.4; }
+    }
+  </style>
+
+  <!-- Regenbogen Farbverlauf -->
+  <defs>
+    <linearGradient id="rainbowGradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#ff0000">
+        <animate attributeName="stop-color" values="#ff0000;#ff7f00;#ffff00;#00ff00;#0000ff;#4b0082;#8f00ff;#ff0000" dur="8s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="100%" stop-color="#8f00ff">
+        <animate attributeName="stop-color" values="#8f00ff;#ff0000;#ff7f00;#ffff00;#00ff00;#0000ff;#4b0082;#8f00ff" dur="8s" repeatCount="indefinite"/>
+      </stop>
+    </linearGradient>
+  </defs>
+
+  <!-- Umgedrehter Wellenhintergrund -->
+  <path d="M0,100 Q100,50 200,100 T400,100 T600,100 T800,100 L800,0 L0,0 Z" fill="#672FAE">
+    <animate attributeName="d" dur="4s" repeatCount="indefinite"
+      values="
+        M0,100 Q100,50 200,100 T400,100 T600,100 T800,100 L800,0 L0,0 Z;
+        M0,100 Q100,150 200,100 T400,100 T600,100 T800,100 L800,0 L0,0 Z;
+        M0,100 Q100,50 200,100 T400,100 T600,100 T800,100 L800,0 L0,0 Z"/>
+  </path>
+
+  <!-- Blinkender, fetter, moderner Text mit Regenbogenverlauf -->
+  <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle" class="rainbow-text">
+    Hi, I'm Georgios Tertlidis!
+  </text>
+</svg>
