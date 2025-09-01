@@ -5,9 +5,7 @@
 
 ---
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto+Mono+&weight=900&size=35&pause=1000&color=672FAE&vCenter=true&random=true&width=1000&height=100&lines=IT-Administrator+%E2%80%A2+Security+Enthusiast)](https://git.io/typing-svg) 
-
----
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto+Mono+&weight=900&size=35&letterSpacing=0.1em&pause=1000&color=672FAE&vCenter=true&random=true&width=870&height=100&lines=IT-Administrator+%E2%80%A2+Security+Enthusiast)](https://git.io/typing-svg)
 
 ### 👨‍💻 Über mich 🇩🇪 🇬🇷 🇬🇧 
 
