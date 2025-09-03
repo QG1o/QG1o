@@ -2,7 +2,7 @@
 ![Hi, I'm Georgios Tertlidis!](https://raw.githubusercontent.com/QG1o/QG1o/main/header.svg)
 ---
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto+Mono+&weight=900&size=35&letterSpacing=0.1em&pause=1000&color=672FAE&vCenter=true&random=true&width=1000&height=100&lines=IT-Administrator+%E2%80%A2+Security+Enthusiast)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto+Mono+&weight=900&size=35&letterSpacing=0.11em&pause=1000&color=672FAE&vCenter=true&random=true&width=1000&height=100&lines=IT-Administrator+%E2%80%A2+Security+Enthusiast)](https://git.io/typing-svg)
 ---
 ### 👨‍💻 Über mich 🇩🇪 🇬🇷 🇬🇧 
 
