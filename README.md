@@ -4,13 +4,21 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto+Mono+&weight=900&size=30&letterSpacing=0.25em&pause=1000&color=672FAE&vCenter=true&random=true&width=1000&height=100&lines=IT-Administrator+%E2%80%A2+Security+Enthusiast)](https://git.io/typing-svg)
 ---
-### 👨‍💻 Über mich 🇩🇪 🇬🇷 🇬🇧 
+```yaml
+about_me:
+  languages: ["🇩🇪", "🇬🇷", "🇬🇧"]
+  description:
+    - "🧑‍💻 IT-Faszination seit meiner Kindheit – über 20 Jahre Erfahrung 🌟"
+    - "🔐 Spezialgebiet: IT-Sicherheit & IT-Administration 🛡️"
+    - "🏢 Planung, Aufbau & Betreuung kompletter IT-Infrastrukturen 🖥️💾"
+    - "📚 Lebenslanges Lernen – theoretisch & praktisch 🧠✨"
+    - "🌐 Stets neue Technologien ausprobieren und Projekte umsetzen 🚀"
+  contact:
+    ask_me_anything:
+      text: "💬 Ask me anything"
+      url: "https://github.com/QG1o/ask-me/issues/new/choose"
 
-- 🧑‍💻 Seit meiner Kindheit beschäftige ich mich intensiv mit IT – mittlerweile über 20 Jahre.  
-- 🔐 Mein Schwerpunkt liegt auf IT-Sicherheit und IT-Administration.  
-- 🏢 Als IT-Administrator in einem Unternehmen habe ich komplette IT-Infrastrukturen geplant, aufgebaut und betreut.  
-- 📚 Ich bilde mich kontinuierlich im IT-Bereich weiter – sowohl theoretisch als auch praktisch.
-- 💬 Ask me about anything [here](https://github.com/QG1o/ask-me/issues/new/choose)
+```
 ---
 
 ### 🧰 Tech Stack & Skills
