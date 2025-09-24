@@ -75,4 +75,6 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=QG1o&style=plastic&color=blue)
 
+“Thou art a poor soul, saddled with a corpse,” said Epictetus. 
+
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=672FAE&height=120&section=footer&fontSize=30&fontColor=87CEFA)
