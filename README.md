@@ -65,8 +65,6 @@ about_me:
 [![Hack The Box](https://img.shields.io/badge/Hack_The_Box-9FEF00?style=plastic&logo=hackthebox&logoColor=1A472A)](https://app.hackthebox.com/profile/1004159)
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=plastic&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/QG1o)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=plastic&logo=leetcode&logoColor=white)](https://leetcode.com/u/QG1o/)
-[![Gravatar](https://img.shields.io/badge/Gravatar-1E8CBE?style=plastic&logo=gravatar&logoColor=white)](https://gravatar.com/qg1o)
-[![Medium](https://img.shields.io/badge/Medium-000000?style=plastic&logo=medium&logoColor=white)](https://medium.com/@tertlidis) 
 [![Goodreads](https://img.shields.io/badge/Goodreads-372213?style=plastic&logo=goodreads&logoColor=white)](https://www.goodreads.com/user/show/192287066-georgios)
 [![Email](https://img.shields.io/badge/Email-0078D4?style=plastic&logo=minutemailer&logoColor=white)](mailto:g@mioo.slmail.me)
 
