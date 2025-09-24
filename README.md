@@ -31,21 +31,20 @@
 
 ### 🎯 Learning in progress
 
-- ![Studium](https://img.shields.io/badge/Wirtschaftsinformatik-Studium-0A66C2?style=plastic&logo=bookstack&logoColor=white)
-
+- 📘 Wirtschaftsinformatik-Studium
 
 ### 🎯 Next goals
 
-- Persönliche Portfolio-Website schreiben
+- 🌐 Persönliche Portfolio-Website schreiben
 
 
 ### 🛠 Projekte
 
 | Projekt                 | Beschreibung                                                  |
 |------------------------|--------------------------------------------------------------|
-| 🌐 [`Portfolio-1`](https://qg1o.github.io/portfolio1/)          | Persönliche Portfolio-Webseite zur Präsentation von Fähigkeiten und Projekten. |
-| 🌐 [`Portfolio-2`](https://qg1o.github.io/portfolio2/)          | Persönliche Portfolio-Webseite zur Präsentation von Fähigkeiten und Projekten. |
-| 🌐 [`Portfolio-3`](https://qg1o.netlify.app/)          | Persönliche Portfolio-Webseite zur Präsentation von Fähigkeiten und Projekten. |
+| 🌟 [`Portfolio-1`](https://qg1o.github.io/portfolio1/)          | Persönliche Portfolio-Webseite zur Präsentation von Fähigkeiten und Projekten. |
+| 🚀 [`Portfolio-2`](https://qg1o.github.io/portfolio2/)          | Persönliche Portfolio-Webseite zur Präsentation von Fähigkeiten und Projekten. |
+| 🎨 [`Portfolio-3`](https://qg1o.netlify.app/)          | Persönliche Portfolio-Webseite zur Präsentation von Fähigkeiten und Projekten. |
 | 🐙 [`GitHub Follower Checker`](https://github.com/QG1o/github-follower-checker) | Python-Script zur Analyse deiner GitHub-Follower. Zeigt gegenseitige Follower, sowie wer dir nicht zurück folgt. |
 
 
