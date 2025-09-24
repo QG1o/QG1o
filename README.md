@@ -62,6 +62,7 @@ about_me:
 ### 📬 Kontakt
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=plastic&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/georgiost/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=plastic&logo=twitter&logoColor=white)](https://twitter.com/QG1o_)
 [![Hack The Box](https://img.shields.io/badge/Hack_The_Box-9FEF00?style=plastic&logo=hackthebox&logoColor=1A472A)](https://app.hackthebox.com/profile/1004159)
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=plastic&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/QG1o)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=plastic&logo=leetcode&logoColor=white)](https://leetcode.com/u/QG1o/)
