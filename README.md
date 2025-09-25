@@ -75,8 +75,8 @@ about_me:
 ### 📊 GitHub Stats
 
 <div>
-  <img src="https://github-readme-stats.vercel.app/api?username=QG1o&show_icons=true&theme=tokyonight&hide_title=true&cache_bust=20250924" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=QG1o&layout=compact&theme=tokyonight&cache_bust=20250924" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=QG1o&show_icons=true&theme=tokyonight&hide_title=true&v=2" height="180" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=QG1o&layout=compact&theme=tokyonight&v=2" height="180" />
 </div>
 
 ---
