@@ -34,6 +34,7 @@ about_me:
 ![Python](https://img.shields.io/badge/Python-3776AB?style=plastic&logo=python&logoColor=yellow)
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=plastic&logo=sqlite&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=plastic&logo=php&logoColor=white)
+
 ---
 
 
@@ -45,6 +46,7 @@ about_me:
 
 - 🌐 Persönliche Portfolio-Website schreiben
 
+---
 
 ### 🛠 Projekte
 
