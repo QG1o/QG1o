@@ -77,8 +77,10 @@ about_me:
 ### 📊 GitHub Stats
 
 <div>
-  <img src="https://github-readme-stats.vercel.app/api?username=QG1o&show_icons=true&theme=tokyonight&hide_title=true&v=2" height="180" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=QG1o&layout=compact&theme=tokyonight&v=2" height="180" />
+
+![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=QG1o&theme=tokyonight)
+![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=QG1o&theme=tokyonight)
+
 </div>
 
 ---
