@@ -40,7 +40,7 @@ about_me:
 
 ### 🎯 Learning in progress
 
-- 📘 Wirtschaftsinformatik-Studium
+- 📘 Product Store App with PERN Stack
 
 ### 🎯 Next goals
 
