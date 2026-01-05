@@ -80,6 +80,9 @@ about_me:
 
 ![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=QG1o&theme=tokyonight)
 ![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=QG1o&theme=tokyonight)
+![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=QG1o&theme=tokyonight)
+![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=QG1o&theme=tokyonight&utcOffset=1)
+
 
 </div>
 
