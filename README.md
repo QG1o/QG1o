@@ -10,7 +10,7 @@ about_me:
   languages: ["🇩🇪", "🇬🇷", "🇬🇧"]
   description:
     - "🧑‍💻 IT-Faszination seit meiner Kindheit – über 20 Jahre Erfahrung 🌟"
-    - "🔐 Spezialgebiet: IT-Sicherheit & IT-Administration 🛡️"
+    - "🔐 Spezialgebiet: Web-Entwicklung, IT-Administration & IT-Sicherheit 🛡️"
     - "🏢 Planung, Aufbau & Betreuung kompletter IT-Infrastrukturen 🖥️💾"
     - "📚 Lebenslanges Lernen – theoretisch & praktisch 🧠✨"
     - "🌐 Stets neue Technologien ausprobieren und Projekte umsetzen 🚀"
