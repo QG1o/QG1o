@@ -61,9 +61,10 @@ about_me:
 
 | Projekt                 | Beschreibung                                                  |
 |------------------------|--------------------------------------------------------------|
-| 🌟 [`Portfolio-1`](https://qg1o.github.io/portfolio1/)          | Persönliche Portfolio-Webseite zur Präsentation von Fähigkeiten und Projekten. |
-| 🚀 [`Portfolio-2`](https://qg1o.github.io/portfolio2/)          | Persönliche Portfolio-Webseite zur Präsentation von Fähigkeiten und Projekten. |
+| 📦 [`Product Store App`](#) | Full-stack PERN Stack Web App mit Authentifizierung, REST API und PostgreSQL-Datenbank. |
 | 🎨 [`Portfolio-3`](https://qg1o.netlify.app/)          | Persönliche Portfolio-Webseite zur Präsentation von Fähigkeiten und Projekten. |
+| 🚀 [`Portfolio-2`](https://qg1o.github.io/portfolio2/)          | Persönliche Portfolio-Webseite zur Präsentation von Fähigkeiten und Projekten. |
+| 🌟 [`Portfolio-1`](https://qg1o.github.io/portfolio1/)          | Persönliche Portfolio-Webseite zur Präsentation von Fähigkeiten und Projekten. |
 | 🐙 [`GitHub Follower Checker`](https://github.com/QG1o/github-follower-checker) | Enthält zwei Python-Scripte zur Analyse deiner GitHub-Follower. |
 | 🧠 [`Hack The Box Progress`](https://github.com/QG1o/htb-progress/blob/main/README.md) | Übersicht über meine Hack The Box Boxen- & Challenge-Fortschritte. |
 
