@@ -35,6 +35,7 @@ about_me:
 ![JavaScript](https://img.shields.io/badge/JavaScript-F0DB4F?style=plastic&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=plastic&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=plastic&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=plastic&logo=next.js&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=plastic&logo=tailwindcss&logoColor=white)
 ![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=plastic&logo=greensock&logoColor=black)
 ![Three.js](https://img.shields.io/badge/Three.js-000000?style=plastic&logo=three.js&logoColor=white)
