@@ -2,7 +2,7 @@
 ![Hi, I'm Georgios T.!](https://raw.githubusercontent.com/QG1o/QG1o/main/header.svg)
 ---
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=30&letterSpacing=0.2em&pause=1000&color=672FAE&width=1100&height=100&lines=Web+Developer+%7C+IT-Admin+%7C+Security+Hobbyist)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=30&letterSpacing=0.25em&pause=1000&color=672FAE&width=1200&height=100&lines=Web+Developer+%7C+IT-Admin+%7C+Security+Hobbyist)](https://git.io/typing-svg)
 
 ---
 ```yaml
