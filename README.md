@@ -70,6 +70,7 @@ about_me:
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=plastic&logo=leetcode&logoColor=white)](https://leetcode.com/u/QG1o/)
 [![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=plastic&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/qg1o/)
 [![Goodreads](https://img.shields.io/badge/Goodreads-372213?style=plastic&logo=goodreads&logoColor=white)](https://www.goodreads.com/user/show/192287066-georgios)
+[![Monkeytype](https://img.shields.io/badge/Monkeytype-000000?style=plastic&logo=monkeytype&logoColor=white)](https://monkeytype.com/profile/giomio)
 [![Email](https://img.shields.io/badge/Email-0078D4?style=plastic&logo=minutemailer&logoColor=white)](mailto:g@mioo.slmail.me)
 
 
