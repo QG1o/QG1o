@@ -86,13 +86,18 @@ about_me:
 ---
 ### 📊 GitHub Stats
 
-<div>
 
-![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=QG1o&theme=tokyonight)
-![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=QG1o&theme=tokyonight)
-![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=QG1o&theme=tokyonight)
-![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=QG1o&theme=tokyonight&utcOffset=1)
+<div align="center">
 
+## 📊 GitHub Stats
+
+<div align="center">
+
+![](https://raw.githubusercontent.com/QG1o/QG1o/main/profile-summary-card-output/github_dark/0-profile-details.svg)
+![](https://raw.githubusercontent.com/QG1o/QG1o/main/profile-summary-card-output/github_dark/1-repos-per-language.svg)
+![](https://raw.githubusercontent.com/QG1o/QG1o/main/profile-summary-card-output/github_dark/2-most-commit-language.svg)
+![](https://raw.githubusercontent.com/QG1o/QG1o/main/profile-summary-card-output/github_dark/3-stats.svg)
+![](https://raw.githubusercontent.com/QG1o/QG1o/main/profile-summary-card-output/github_dark/4-productive-time.svg)
 
 </div>
 
