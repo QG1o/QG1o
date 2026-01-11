@@ -87,11 +87,7 @@ about_me:
 ### 📊 GitHub Stats
 
 
-<div align="center">
-
-## 📊 GitHub Stats
-
-<div align="center">
+<div>
 
 ![](https://raw.githubusercontent.com/QG1o/QG1o/main/profile-summary-card-output/github_dark/0-profile-details.svg)
 ![](https://raw.githubusercontent.com/QG1o/QG1o/main/profile-summary-card-output/github_dark/1-repos-per-language.svg)
