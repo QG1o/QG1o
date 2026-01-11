@@ -1,9 +1,9 @@
 name: GitHub-Profile-Summary-Cards
 
 on:
-  schedule: # Läuft automatisch jeden Tag
-    - cron: "0 0 * * *"
-  workflow_dispatch: # Erlaubt manuelles Triggern
+  schedule:
+    - cron: "0 0 * * *"  # Läuft jeden Tag um Mitternacht
+  workflow_dispatch:  # Erlaubt manuelles Starten
 
 jobs:
   summary-cards:
