@@ -16,7 +16,7 @@ about_me:
     - "🖥️ 5+ years running the IT infrastructure of a retail company"
     - "🔐 Linux, virtualization, networking, system hardening"
     - "🌐 Founder of Studio Georg – web development"
-    - "🛡️ Hands-on security training (HTB, THM) since 2022"
+    - "🛡️ Hands-on security training since 2022"
     - "📚 Currently preparing: Microsoft AZ-900"
   contact:
     ask_me_anything:
