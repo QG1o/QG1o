@@ -70,7 +70,7 @@ Creative front-end explorations — animation and interaction techniques.
 | Project | Description |
 |---|---|
 | 🌈 [`Dev-Portfolio`](https://dev.tertlidis.com/) | Cursor-tracking avatar eyes, click confetti, rainbow cursor, spiral-wipe theme transition. |
-| 🎨 [`Shader-Playground`](https://system.tertlidis.com/) | WebGL/shader experiments — my most-crafted work. |
+| 🎨 [`system.tertlidis`](https://system.tertlidis.com/) | My personal site — who I am and what I build: hand-crafted WebGL shaders & GSAP motion. |
 
 ### 🔧 Tools
 
