@@ -118,7 +118,6 @@ Creative front-end explorations — animation and interaction techniques.
 ---
 ![Profile Views](https://profile-viewer-nu.vercel.app/api/views?username=0xGI0&icon=ring&effect=rainbow)
 &nbsp;
-![Profile Views](https://profile-viewer-nu.vercel.app/api/views?username=0xGI0&mode=symbols&effect=gradient)
 
 “Thou art a poor soul, saddled with a corpse,” said Epictetus.
 ![Footer](https://capsule-render-chi.vercel.app/api?type=waving&color=672FAE&height=120&section=footer)
