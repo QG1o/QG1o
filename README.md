@@ -72,12 +72,18 @@ Creative front-end explorations — animation and interaction techniques.
 | 🌈 [`Playful Portfolio`](https://dev.tertlidis.com/) | My developer portfolio — playful by design: cursor-tracking avatar eyes, click confetti, rainbow cursor, spiral-wipe theme transition. |
 | 🎨 [`Life in Motion`](https://system.tertlidis.com/) | My personal site — who I am and what I craft: hand-built WebGL shaders & GSAP motion. |
 
-### 🔧 Tools
+### 📱 Apps
 
 | Project | Description |
 |---|---|
+| <img src="https://raw.githubusercontent.com/0xGI0/aurelius-android/main/docs/logo.png" width="42" align="center" alt="Aurelius"> **[Aurelius](https://github.com/0xGI0/aurelius-android)** | Marcus Aurelius' *Meditations* as an app — all 486 sections in German, English & Ancient Greek, topic filters, cross-device favorites, AI explanations. GPL-3.0, F-Droid in preparation. **[Android](https://github.com/0xGI0/aurelius-android)** · **[Web](https://aurelius-rust.vercel.app)** · **[Backend](https://github.com/0xGI0/aurelius-backend)** |
 | 🐙 [`GitHub Follower Checker`](https://github.com/0xGI0/GitHub-Follower-Checker) | Python tool (GUI + CLI) for analyzing followers and unfollowing non-followers. |
 | 🖼️ [`PicConverter`](https://github.com/0xGI0/PicConverter) | Image & PDF converter with GUI, CLI, batch and EXIF editing. |
+
+### 🧩 Miscellaneous
+
+| Project | Description |
+|---|---|
 | 👁️ [`Profile Viewer`](https://github.com/0xGI0/profile-viewer) | Self-hosted, animated view counter badge for GitHub profiles — SVG, Vercel, Upstash Redis. |
 | 💎 [`mein-crypto-token`](https://github.com/0xGI0/mein-crypto-token) | ERC-20 token (QGIO) live on Polygon mainnet — Solidity, OpenZeppelin v5, Foundry tests & CI. |
 
