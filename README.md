@@ -76,7 +76,7 @@ Creative front-end explorations — animation and interaction techniques.
 
 | Project | Description |
 |---|---|
-| <img src="https://raw.githubusercontent.com/0xGI0/aurelius-android/main/docs/logo.png" width="42" align="center" alt="Aurelius"> **[Aurelius](https://github.com/0xGI0/aurelius-android)** | Marcus Aurelius' *Meditations* as an app — all 486 sections in German, English & Ancient Greek, topic filters, cross-device favorites, AI explanations. GPL-3.0, F-Droid in preparation. **[Android](https://github.com/0xGI0/aurelius-android)** · **[Web](https://aurelius-rust.vercel.app)** · **[Backend](https://github.com/0xGI0/aurelius-backend)** |
+| <img src="https://raw.githubusercontent.com/0xGI0/stoa/main/web/docs/logo.png" width="42" align="center" alt="Stoa"> **[Stoa](https://github.com/0xGI0/stoa)** | The three great Stoics — Marcus Aurelius, Epictetus & Seneca — as one app: *Meditations* (486 sections), *Enchiridion* (53 chapters) & *On the Shortness of Life* (20 chapters) in German, English & the originals, topic filters, cross-device favorites, AI explanations. GPL-3.0, F-Droid in preparation. **[Web](https://die-stoa.vercel.app)** · **[Android APK](https://github.com/0xGI0/stoa/releases)** · **[Monorepo](https://github.com/0xGI0/stoa)** |
 | 🐙 [`GitHub Follower Checker`](https://github.com/0xGI0/GitHub-Follower-Checker) | Python tool (GUI + CLI) for analyzing followers and unfollowing non-followers. |
 | 🖼️ [`PicConverter`](https://github.com/0xGI0/PicConverter) | Image & PDF converter with GUI, CLI, batch and EXIF editing. |
 
